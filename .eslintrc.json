@@ -1,0 +1,6 @@
+{
+  "extends": "./src/main.js",
+  "env": {
+    "node": true
+  }
+}
