@@ -77,9 +77,9 @@ module.exports = {
   'no-tabs': 'error',
   'no-trailing-spaces': 'error',
   'no-whitespace-before-property': 'error',
-  'nonblock-statement-body-position': ['error', 'beside'],
+  'nonblock-statement-body-position': 'off',
   /* 'object-curly-newline', 'object-property-newline' */
-  'object-curly-spacing': 'error',
+  'object-curly-spacing': ['error', 'always'],
   'operator-linebreak': ['error', 'none'],
   'padded-blocks': ['error', 'never'],
   'padding-line-between-statements': 'off',
