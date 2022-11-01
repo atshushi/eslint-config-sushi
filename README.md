@@ -2,10 +2,9 @@
 
 ## 1. Supports
 [ x ] Javascript <br />
-[ - ] Typescript <br />
-[ - ] React <br />
-[ - ] Imports (Plugin) <br />
-[ - ] Jsx <br />
+[ x (To be Improved) ] Typescript <br />
+[ x (To be Improved) ] React <br />
+[ x (To be Improved) ] Jsx <br />
 
 ## 2. Contact
 Sushi (atshushi#3688) [atsushithesushi@gmail.com]
