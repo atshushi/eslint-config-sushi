@@ -1,12 +1,16 @@
 {
   "name": "eslint-config-sushi",
   "description": "An Eslint config to improve your code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/main.js",
   "author": "Shushi",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atshushi/eslint-config-sushi.git"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.17.0",
