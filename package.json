@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-sushi",
   "description": "An Eslint config to improve your code",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "src/main.js",
   "author": "Shushi",
   "license": "MIT",
