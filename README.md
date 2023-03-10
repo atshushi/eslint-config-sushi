@@ -6,12 +6,12 @@ Javascript, Typescript, JSX
 
 ## 2. Download
 ### 2.1 For Javascript
-eslint (https://www.npmjs.com/package/eslint)
+eslint (https://www.npmjs.com/package/eslint)<br />
 eslint-config-sushi (https://www.npmjs.com/package/eslint-config-sushi)
 ### 2.2 For Typescript
-eslint (https://www.npmjs.com/package/eslint)
-eslint-config-sushi (https://www.npmjs.com/package/eslint-config-sushi)
-@typescript-eslint/eslint-plugin (https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
+eslint (https://www.npmjs.com/package/eslint)<br />
+eslint-config-sushi (https://www.npmjs.com/package/eslint-config-sushi)<br />
+@typescript-eslint/eslint-plugin (https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)<br />
 @typescript-eslint/parser (https://www.npmjs.com/package/@typescript-eslint/parser)
 
 
@@ -30,4 +30,4 @@ eslint-config-sushi (https://www.npmjs.com/package/eslint-config-sushi)
 ```
 
 ## 4. Contact
-Sushi (atshushi#3688) [atsushithesushi@gmail.com]
+Sushi (sushi#0326) [atshushi.vercel.app] [atsushithesushi@gmail.com]
