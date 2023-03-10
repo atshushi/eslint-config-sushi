@@ -39,7 +39,9 @@ module.exports = {
     'before': false,
   }],
   'implicit-arrow-linebreak': ['error', 'beside'],
-  'indent': ['error', 2],
+  'indent': ['error', 2, {
+    'SwitchCase': 1,
+  }],
   'jsx-quotes': ['error', 'prefer-double'],
   'key-spacing': ['error', {
     'beforeColon': false,

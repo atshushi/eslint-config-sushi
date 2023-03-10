@@ -1,24 +1,33 @@
-# Config for Your Eslint
+<h1 align="center">Eslint Config Sushi</h1>
+<h3 align="center">A Eslint Config for improve your codes</h3>
 
 ## 1. Supports
-[ x ] Javascript <br />
-[ x (To be Improved) ] Typescript <br />
-[ x (To be Improved) ] React <br />
-[ x (To be Improved) ] Jsx <br />
+Javascript, Typescript, JSX
 
-## 2. How to Use?
-### 2.1 Javascript
+## 2. Download
+### 2.1 For Javascript
+eslint (https://www.npmjs.com/package/eslint)
+eslint-config-sushi (https://www.npmjs.com/package/eslint-config-sushi)
+### 2.2 For Typescript
+eslint (https://www.npmjs.com/package/eslint)
+eslint-config-sushi (https://www.npmjs.com/package/eslint-config-sushi)
+@typescript-eslint/eslint-plugin (https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
+@typescript-eslint/parser (https://www.npmjs.com/package/@typescript-eslint/parser)
+
+
+## 3. How to Use?
+### 3.1 For Javascript
 ```json
 {
   "extends": ["sushi"]
 }
 ```
-### 2.2 Typescript
+### 3.2 For Typescript
 ```json
 {
   "extends": ["sushi/typescript"]
 }
 ```
 
-## 3. Contact
+## 4. Contact
 Sushi (atshushi#3688) [atsushithesushi@gmail.com]

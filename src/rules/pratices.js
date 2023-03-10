@@ -13,7 +13,7 @@ module.exports = {
   'consistent-return': 'off',
   'consistent-this': 'off',
   'curly': 'off',
-  'default-case': 'error',
+  'default-case': 'off',
   'default-case-last': 'error',
   'default-param-last': 'error',
   'dot-notation': 'error',
