@@ -22,6 +22,7 @@ module.exports = {
       rules: {
         'max-len': 'off',
         'no-extra-parens': 'off',
+        'no-nested-ternary': 'off',
       },
     },
   ],
